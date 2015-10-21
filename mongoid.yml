@@ -1,0 +1,6 @@
+development:
+  clients:
+    default:
+      database: boombox-combined 
+      hosts:
+        - localhost:27017
